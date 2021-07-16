@@ -1,0 +1,11 @@
+Car price prediction is the problem statement.
+here the data contain 
+Car_name having different type of car name in the paricualar show room having the car
+Year column is contain the particular customer purchese the car in specific year 
+Selling_Price is the customer is sell the car in specific price
+Present_Price is that car present price of the show room price
+Kms Driven is the car driven kilo meters 
+Fuel_Type is the particular car having the type of car is like petrol or diesel or CNG
+Seller_Type is the column contain the some person sell there car in indivusal or dealer type
+transmission is the column having the type of the column like automatic car or manual car
+Owner is the column haviong the how many owner will changing till the car sell
